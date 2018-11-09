@@ -1,8 +1,13 @@
 # depslib dependency file v1.0
-1540841822 source:d:\projekty cb\kalkulator wydatków\main.cpp
+1541730175 source:d:\projekty cb\kalkulator wydatków\main.cpp
 	<iostream>
 	<windows.h>
 	<stdlib.h>
 	<stdio.h>
 	<cstdlib>
+	<string>
+	<math.h>
+	<objbase.h>
+	<CommCtrl.h>
+	<fstream>
 
